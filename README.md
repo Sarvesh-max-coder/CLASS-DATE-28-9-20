@@ -1,1 +1,2 @@
-# CLASS-DATE-28-9-20
+# staticSquare
+A static square made using Matter.js physics engine
